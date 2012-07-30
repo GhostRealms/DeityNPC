@@ -1,0 +1,8 @@
+name: DeityNPC
+main: com.imdeity.npc.DeityNPCMain
+version: 12.07.28
+language: english.yml
+authors: [vanZeben]
+commands:
+    DeityNPC:
+        aliases: [NPC]
